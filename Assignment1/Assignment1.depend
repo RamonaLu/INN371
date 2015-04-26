@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1429976366 source:c:\users\owner\source\repos\inn371\assignment1\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"CityMap.h"
+
+1429975324 c:\users\owner\source\repos\inn371\assignment1\citymap.h
+	<string>
+	<vector>
+	<map>
+	<deque>
+	<iostream>
+	<set>
+	<queue>
+	<math.h>
+	<algorithm>
+
+1430024364 source:c:\users\ramona\documents\dev\inn371\assignment1\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"CityMap.h"
+
+1430024631 c:\users\ramona\documents\dev\inn371\assignment1\citymap.h
+	<string>
+	<vector>
+	<map>
+	<deque>
+	<iostream>
+	<set>
+	<queue>
+	<math.h>
+	<algorithm>
+
